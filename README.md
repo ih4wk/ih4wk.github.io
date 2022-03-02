@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# *Project title*
 
-You can use the [editor on GitHub](https://github.com/ih4wk/ih4wk.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+*Short description of your project, in one or two sentences.* 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Setup 
 
-### Markdown
+### Dependencies
 
-this is nothing
+*Provide links and descriptions for the third-party libraries you're having your users install.*
 
-```markdown
-Syntax highlighted code block
+### Installation
 
-# Header 1
-## Header 2
-### Header 3
+* Mac OS X
+* Ubuntu
+* Windows (if applicable)
 
-- Bulleted
-- List
+### Getting started
 
-1. Numbered
-2. List
+*What does your user need to know to get everything ready after installation?*
+*Think about databases, config files, and settings.*
 
-**Bold** and _Italic_ and `Code` text
+## Usage
 
-[Link](url) and ![Image](src)
-```
+*Give your users a sense of the workflow for using your project/tool.*
+*For a website this might include code for running locally.*
+*For an API this might include method and parameter specs.*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Demo
 
-### Jekyll Themes
+*Grab a simple block of code that makes use of your project/tool and paste it here.*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ih4wk/ih4wk.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Team
 
-### Support or Contact
+* *Name, Organization - role or tasks worked on*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+*Add a "contributors" section if you've incorporated pull requests.*
+
+## Errors and bugs
+
+If something is not behaving intuitively, it is a bug and should be reported.
+Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
+
+Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
+
+## Patches and pull requests
+
+Your patches are welcome. Here's our suggested workflow:
+ 
+* Fork the project.
+* Make your feature addition or bug fix.
+* Send us a pull request with a description of your work. Bonus points for topic branches!
+
+## Copyright and attribution
+
+Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
