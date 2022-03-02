@@ -1,55 +1,19 @@
-# *Project title*
+### the new world .. 
 
-*Short description of your project, in one or two sentences.* 
 
-## Setup 
+Eduardo Galeano once said that we live in the era of triviality, where clothes are more important than the body, a temple is more important than the worshiped God.
 
-### Dependencies
+First, the new generation must take it upon themselves to determine with absolute resolve the definition of happiness then work on achieving it, otherwise the society would press its own definition on them,
 
-*Provide links and descriptions for the third-party libraries you're having your users install.*
+and here comes the snake.
 
-### Installation
+The scene of our heads looking downwards at phones’ screens all day long just remind me of a flock of lost sheep, always eager to follow and be led on. The negativity resulting from the rapid development of the social media is horrifying to the extent that makes you feel nauseous. to have the society with its different classes, all hanging on the details of the lives of a group of the rich, who are not only empty from their insides, but also attention-seekers. this has no precedence in the history of mankind at any point of time.
 
-* Mac OS X
-* Ubuntu
-* Windows (if applicable)
+“Pigs are the only living beings that can’t look upwards”
 
-### Getting started
+what if a young girl from an Afghani village, or another underdeveloped, poor country came to know about a fashionista’s life, what would she think then about her own life, and her future?
 
-*What does your user need to know to get everything ready after installation?*
-*Think about databases, config files, and settings.*
+This unprecedented complete exposure among different classes of society came to determine several concepts; such as the public taste, and the definition of both success and happiness. Presently the Strongest are the ones who set those standards. I don’t wish to talk about Kim Kardashian for now, who has become an icon to some women.
 
-## Usage
+the whole matter is very disgusting, long and does not need further explanation. The funny thing is that many women started to abandon their minds, being intellectual and instead crammed their attention into other parts of their bodies! what would these women produce? what kind of individuals? how many freaks and human-pigs should we expect to be born in the next five years? Before this guise of deception and disgust had spread among the society, a person’s circle was pretty small; friends, family and the neighborhood.
 
-*Give your users a sense of the workflow for using your project/tool.*
-*For a website this might include code for running locally.*
-*For an API this might include method and parameter specs.*
-
-## Demo
-
-*Grab a simple block of code that makes use of your project/tool and paste it here.*
-
-## Team
-
-* *Name, Organization - role or tasks worked on*
-
-*Add a "contributors" section if you've incorporated pull requests.*
-
-## Errors and bugs
-
-If something is not behaving intuitively, it is a bug and should be reported.
-Report it here by creating an issue: https://github.com/datamade/your-repo-here/issues
-
-Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs.](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report)
-
-## Patches and pull requests
-
-Your patches are welcome. Here's our suggested workflow:
- 
-* Fork the project.
-* Make your feature addition or bug fix.
-* Send us a pull request with a description of your work. Bonus points for topic branches!
-
-## Copyright and attribution
-
-Copyright (c) 2016 DataMade. Released under the [MIT License](https://github.com/datamade/your-repo-here/blob/master/LICENSE).
